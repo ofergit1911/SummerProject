@@ -17,7 +17,7 @@ namespace ConsoleApp5
         {
             this.screenSize = screenSize;
             this.manufacturer = manufacturer;
-            this.memory = 17;
+            this.memory = 18;
             me = null; 
         }
 
