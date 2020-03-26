@@ -15,7 +15,7 @@ namespace ConsoleApp5
 
         public Phone(double screenSize, String manufacturer)
         {
-            this.screenSize = screenSize;
+            this.screenSize = screenSize+1;
             this.manufacturer = manufacturer;
             this.memory = 17;
             me = null; 
